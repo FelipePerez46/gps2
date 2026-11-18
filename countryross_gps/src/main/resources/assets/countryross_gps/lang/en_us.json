@@ -1,0 +1,14 @@
+{
+  "item.countryross_gps.gps": "CountryRoss GPS",
+  "item.countryross_gps.gps.tooltip.open": "Right-click to open the map",
+  "item.countryross_gps.gps.tooltip.maps": "Maps the terrain you walk through",
+  "gui.countryross_gps.boot.system": "SYSTEM v1.0 ......... OK",
+  "gui.countryross_gps.boot.memory": "MAP MEMORY ......... OK",
+  "gui.countryross_gps.boot.searching": "SEARCHING SATELLITES",
+  "gui.countryross_gps.boot.sat": "SAT %s/8",
+  "gui.countryross_gps.signal_acquired": "SIGNAL ACQUIRED",
+  "gui.countryross_gps.no_signal": "NO SIGNAL",
+  "gui.countryross_gps.out_of_range": "OUT OF SATELLITE RANGE",
+  "gui.countryross_gps.signal_ok": "SIGNAL OK   MAPPED %s M2",
+  "gui.countryross_gps.hint": "[DRAG] MOVE  [SCROLL] ZOOM  [R] CENTER"
+}
